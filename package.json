@@ -1,6 +1,6 @@
 {
   "name": "react-native-searchable-select-modal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React native component that provides a searchable list of selectable options in a modal.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
